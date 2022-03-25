@@ -1,0 +1,6 @@
+
+
+You transferred 200 from Food to Clothes
+Food@800
+Clothes@2200
+Entertainment@500
